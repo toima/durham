@@ -7,26 +7,29 @@ image: http://farm4.staticflickr.com/3121/3117777526_6399dc0e08_q.jpg
 image-attribution: Deborah Lee Soltesz
 image-attribution-link: http://www.flickr.com/photos/dsoltesz/3117777526/
 ---
-Makes about 15 small cookies.
 
-## Ingredients
+## [Elmo's Diner](http://elmosdiner.com/)
+* アメリカン、Breakfast, Lunch & Dinner
+* 朝食、ブランチなら、どの料理もおいしい
+* アメリカらしいすてきなダイナー
+    * [google map](https://maps.google.com/maps?q=Elmo%27s+Diner&ll=36.012276,-78.921318&spn=0.007082,0.012403&client=ubuntu-browser&fb=1&gl=us&cid=17086394107109450999&t=m&z=16&iwloc=A)
 
-* 175g plain flour
-* 90g brown sugar
-* 50g unsalted butter, diced, at room temperature
-* 2 tbsp golden syrup
-* 1 egg, beaten
-* 1 tsp ground ginger
-* 1 tsp cinnamon
-* 1 tsp bicarbonate of soda
-* Icing sugar to dust
 
-## Method
+## [Guglhupf](http://www.guglhupf.com/) 
+* パン、ブランチ、お茶
+    * [google map](https://www.google.com/maps/place/Guglhupf/@35.974303,-78.932319,15z/data=!4m2!3m1!1s0x0:0xa36cf5f9256f7cb9) 
 
-1. Sift the flour, ginger, cinnamon and bicarbonate of soda into a large mixing bowl.
-2. Use your fingers to rub in the diced butter. Mix in the sugar.
-3. Mix the egg with the syrup then pour into the flour mixture. Fold in well to form a dough.
-4. Tip some flour onto the work surface and knead the dough until smooth.
-5. Preheat the oven to 180°C.
-6. Roll the dough out flat and use a shaped cutter to make as many cookies as you like.
-7. Transfer the cookies to a tray and bake in the oven for 15 minutes. Lightly dust the cookies with icing sugar.
+## [Parker and Otis](http://www.parkerandotis.com/store/)
+* breakfast, lunch
+* 112 S Duke Street Durham
+    * [google map](https://www.google.com/maps/place/112+S+Duke+St/@35.99898,-78.909001,17z/data=!3m1!4b1!4m2!3m1!1s0x89ace40d081c848b:0x150ebbdf9b7caf74)
+
+## [Scratch Bakery](http://www.piefantasy.com/) 
+* ブランチ、カフェ
+* Snack Plateがいろいろ食べれておいしい（味は濃い）
+* パイとかすごいおいしいことがある
+* エスプレッソ系もおいしい
+    * [google map](https://maps.google.com/maps?q=scratch+durham&ll=35.997574,-78.900096&spn=0.007899,0.012403&client=ubuntu-browser&t=m&z=16&iwloc=A)
+
+
+
